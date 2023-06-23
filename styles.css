@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+  font-family: 'Press Start 2P', cursive;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+header {
+  background-color: #008080;
+  color: #ffffff;
+  padding: 10px 0;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  color: #cccccc;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #008080;
+  color:Apologies for the confusion. Here is the HTML and CSS code that was generated for your website:
+
+HTML Code:
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Deluxe Power</title>
+<link rel='stylesheet' type='text/css' href='styles.css'>
+<script src='script.js'></script>
+</head>
+<body>
+<header>
+<h1>Deluxe Power</h1>
+<nav>
+<ul>
+<li><a href='#'>Home</a></li>
+<li><a href='#'>About Us</a></li>
+<li><a href='#'>Services</a></li>
+<li><a href='#'>Booking</a></li>
+<li><a href='#'>Contact Us</a></li>
+<li><a href='#'>Blog</a></li>
+<li><a href='#'>Photo Gallery</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<section id='home'>
+<h2>Welcome to Deluxe Power</h2>
+<p>Your trusted electrical contractor in the Canberra ACT region.</p>
+</section>
+<section id='about'>
+<h2>About Us</h2>
+<p>We acknowledge the past custodians of the land and are proud to be third-generation Canberrans on both sides of our family. We are a team of professional electricians providing high-quality services in the Canberra ACT region.</p>
+</section>
+<section id='services'>
+<h2>Our Services</h2>
+<ul>
+<li>Switchboard Up
